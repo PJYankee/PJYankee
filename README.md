@@ -1,5 +1,8 @@
 - ⚾ Hi, I’m @PJYankee ⚾
 
+![image](https://user-images.githubusercontent.com/99086883/221665514-7de8e87a-a667-4472-afe4-0077e5064568.png)
+
+
 I have been a software engineer since 2015 and love designing and writing backend code.
 
 I love Baseball, punk music and all things Syracuse Orange 🍊🍊🍊 Go Cuse!!!
