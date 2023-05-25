@@ -1,6 +1,6 @@
 - ⚾ Hi, I’m @PJYankee ⚾
 
-![image](https://user-images.githubusercontent.com/99086883/221665514-7de8e87a-a667-4472-afe4-0077e5064568.png) ![otto](https://user-images.githubusercontent.com/99086883/230986456-6bd509e1-907d-41ee-8529-f11a84ec94cb.jpg)![278499046_4874996505871341_8690769487819359207_n_4874996509204674](https://github.com/PJYankee/PJYankee/assets/99086883/1e977b27-cd96-4250-a211-032da8e8b99b)
+![image](https://user-images.githubusercontent.com/99086883/221665514-7de8e87a-a667-4472-afe4-0077e5064568.png) ![otto](https://user-images.githubusercontent.com/99086883/230986456-6bd509e1-907d-41ee-8529-f11a84ec94cb.jpg)(https://github.com/PJYankee/PJYankee/assets/99086883/1e977b27-cd96-4250-a211-032da8e8b99b)
 
 
 I have been a software engineer since 2015 and love designing and writing backend code.  
