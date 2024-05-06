@@ -8,7 +8,7 @@
 
 I have been a software engineer since 2015 and love designing and writing backend code.  
 
-Most of my repositories are public, the ones that I shared are just personal projects that have been fun to tinker with over the years!
+Most of my repositories are private, the ones that I shared are just personal projects that have been fun to tinker with over the years!
 
 I love Baseball, punk music and all things Syracuse Orange 🍊🍊🍊 Go Cuse!!!
 
