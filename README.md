@@ -1,6 +1,7 @@
 - ⚾ Hi, I’m @PJYankee ⚾
 - 
-![about_me_pic](https://github.com/user-attachments/assets/a3bdb3e1-29a3-4523-aea0-7af7b907643c) ![otto](https://user-images.githubusercontent.com/99086883/230986456-6bd509e1-907d-41ee-8529-f11a84ec94cb.jpg)![20250103_105814](https://github.com/user-attachments/assets/cf68a3be-688d-434a-b566-7f740d6a71fb)
+![about_me_pic](https://github.com/user-attachments/assets/a3bdb3e1-29a3-4523-aea0-7af7b907643c) ![otto](https://user-images.githubusercontent.com/99086883/230986456-6bd509e1-907d-41ee-8529-f11a84ec94cb.jpg)![20250103_105814](https://github.com/user-attachments/assets/13840592-2c98-4865-8cae-c259189aa0e4)
+
 
 
 
