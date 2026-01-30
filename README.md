@@ -1,6 +1,7 @@
 - ⚾ Hi, I’m @PJYankee ⚾
 - 
-![about_me_pic](https://github.com/user-attachments/assets/a3bdb3e1-29a3-4523-aea0-7af7b907643c) ![otto](https://user-images.githubusercontent.com/99086883/230986456-6bd509e1-907d-41ee-8529-f11a84ec94cb.jpg)![20250103_105814](https://github.com/user-attachments/assets/13840592-2c98-4865-8cae-c259189aa0e4)![20220617_171653](https://github.com/user-attachments/assets/d85b3374-64f8-4d84-bef7-4ef6c9b20ac4) ![hawaii](https://github.com/user-attachments/assets/87ff8c49-9d79-41d2-a243-6767c5596ebb)
+![about_me_pic](https://github.com/user-attachments/assets/a3bdb3e1-29a3-4523-aea0-7af7b907643c) ![otto](https://user-images.githubusercontent.com/99086883/230986456-6bd509e1-907d-41ee-8529-f11a84ec94cb.jpg)![20250103_105814](https://github.com/user-attachments/assets/13840592-2c98-4865-8cae-c259189aa0e4)![20220617_171653](https://github.com/user-attachments/assets/d85b3374-64f8-4d84-bef7-4ef6c9b20ac4) ![hawaii](https://github.com/user-attachments/assets/87ff8c49-9d79-41d2-a243-6767c5596ebb)![falcon](https://github.com/user-attachments/assets/52b158f0-f591-497e-874d-dc5c4a387d3c)
+
 
 
 
