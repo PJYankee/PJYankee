@@ -9,8 +9,8 @@
 
 
 
-I have been a software engineer since 2015 and love designing and writing backend code. I am also a part time professor of Computer Science at 
-SUNY Polytechnic Institute where I teach object oriented programming in Java. 
+I am a full time software engineer and enjoy designing and implementing backend solutions mostly in Java. I am also a part time professor of Computer Science at 
+SUNY Polytechnic Institute where I teach Computing Fundamentals as well as Object Oriented Design in Java.
 
 Most of my repositories are private, the ones that I shared are just personal projects that have been fun to tinker with over the years!
 
