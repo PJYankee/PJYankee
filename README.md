@@ -9,7 +9,7 @@
 
 
 
-I am a full time software engineer and enjoy designing and implementing backend solutions mostly in Java. I am also a part time professor of Computer Science at [SUNY Polytechnic Institute](https://sunypoly.edu/) where I teach Computing Fundamentals as well as Object Oriented Design in Java.
+I am a full time software engineer and enjoy designing and implementing backend solutions mostly in Java. I am also a part time professor of Computer Science at <a href="https://sunypoly.edu/" target="_blank">SUNY Polytechnic Institute</a> where I teach Computing Fundamentals as well as Object Oriented Design in Java.
 
 
 Most of my repositories are private, the ones that I shared are just personal projects that have been fun to tinker with over the years!
